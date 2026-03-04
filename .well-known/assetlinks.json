@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smsv.fm",
+      "sha256_cert_fingerprints": [
+        "73:5B:A2:CA:62:94:93:F9:17:AE:A0:9D:F0:E1:F7:C8:69:7D:5E:78:88:AD:E8:78:6F:AD:5F:2D:24:FE:99:5B"
+      ]
+    }
+  }
+]
